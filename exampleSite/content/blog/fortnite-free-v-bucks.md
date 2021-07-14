@@ -1,7 +1,7 @@
 +++
 author = ["Admin"]
 categories = ["Fortnite "]
-date = 2020-03-14T09:40:24Z
+date = ""
 description = "Epic Games Fortnite "
 draft = true
 image = "/images/fortnite.png"
