@@ -12,9 +12,6 @@ fields:
   name: image
   label: image
 - type: list
-  name: author
-  label: author
-- type: list
   name: categories
   label: categories
 - type: list
