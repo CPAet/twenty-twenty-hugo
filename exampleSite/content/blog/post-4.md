@@ -5,11 +5,12 @@ image: "/images/fortnite.png"
 author:
 - Admin
 categories:
-- tour
+- 'Fortnite '
 tags:
-- tour
-- visit
-description: This is meta description
+- Fortnite
+- Games
+- Epic
+description: 'Epic Games Fortnite '
 
 ---
 # Fortnite
